@@ -1,0 +1,39 @@
+.today{
+	margin-top: 50px;
+	margin-bottom: 30px ;
+}
+.today .curTemp{
+	margin-top: -10px;
+	margin-bottom: -10px;
+	font-size: 80px;
+}
+.today .city{
+	font-size: 30px;
+	
+}
+.today .pm25{
+	font-size: 20px;
+	
+}
+.weather{
+	margin: 0 auto;
+}
+.weather.content{
+  	margin-bottom: 30px;
+  	margin-left: 0px ;
+}
+.weather .date{
+	margin-top: 5px;
+}
+.weather .list{
+	padding: 10px;
+}
+.weather .single{
+	background: #e6e6e6;
+}
+/*  .weather *{
+	border: 1px solid ;
+}  */
+.weather .temperature{
+	padding: 0 px;
+}
